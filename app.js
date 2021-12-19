@@ -5,7 +5,7 @@ const generateReadme = require("./readmeTemplate")
 
 //this function writes content to the file
 const writeReadMe = (fileContent)=>{
-    fs.writeFile("./README.md",fileContent,(err,done)=>{
+    fs.writeFile("./sampleReadme.md",fileContent,(err,done)=>{
         if(err){
             console.log("some error when writing the file")
             return
@@ -141,8 +141,5 @@ ask4Inputs()
 
 
 
-//     # Readme Generator: In this app, we get user inputs using Inquirer and create a READE.md for the user.
-// # LINK for Video : https://drive.google.com/file/d/1J1uMwFJr-G-WAnVk8dLi98UpwlwhWBvs/view?usp=sharing
-// # The sample readme file down is also created by the app itself.
-
+//    
 
