@@ -1,0 +1,15 @@
+{
+  "name": "ReadmeGenerator",
+  "version": "1.0.0",
+  "description": "<br>\r <h1 align='center'>Run Buddy 2.0<span><img src=\"icons/project.png\" height=\"25\" width=\"25\"/></span></h1>\r     <img src=\"https://img.shields.io/badge/License-Apache2.0-red.svg\"/>\r     <h2 id=\"description\">Description</h2>\r     <p><img src=\"icons/search.png\" height=\"18\" width=\"20\"/>This is some description of the app. Doesnt reallty matter</p>\r     <hr>\r     <h2>Table of Contents</h2>\r     <ul>\r         <li><a href=\"#description\">Description</a></li>\r         <li><a href=\"#install\">Installation</a></li>\r         <li><a href=\"#usage\">Usage</a></li>\r         <li><a href=\"#license\">License</a></li>\r         <li><a href=\"#contri\">Contributing</a></li>\r         <li><a href=\"#test\">Tests</a></li>\r         <li><a href=\"#question\">Questions</a></li>\r     </ul>\r     <hr>\r     <h2 id=\"install\">Installation</h2>\r     <p><img src=\"icons/wheel.png\" height=\"18\" width=\"20\"/>Inquirer</p>\r     <hr>\r     <h2 id=\"usage\">Usage</h2>\r     <p><img src=\"icons/laptop.png\" height=\"18\" width=\"20\"/>Some Usage</p>\r     <hr>\r     <h2 id=\"license\">License</h2>\r     <img src=\"https://img.shields.io/badge/License-Apache2.0-red.svg\"/>\r     <p>Apache2.0</p>\r     <hr>\r     <h2 id=\"contri\">Contributing</h2>\r     <p><img src=\"icons/people.png\" height=\"18\" width=\"20\"/>Karan Sodhi</p>\r     <hr>\r     <h2 id=\"test\">Tests</h2>\r     <p><img src=\"icons/pencil.png\" height=\"18\" width=\"20\"/>Unit Testing</p>\r     <hr>\r     <h2 id=\"question\">Questions</h2>\r     <p>Incase of questions, Find me on: </p>\r     <p><img src=\"icons/gmail.png\" height=\"18\" width=\"20\"/> :<a href='mailto: karansodhi@gmail.com'>Email</a></p>\r     <p><img src=\"icons/github.png\" height=\"18\" width=\"20\"/> :<a href='https://github.com/kkkaran'>Github</a></p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
