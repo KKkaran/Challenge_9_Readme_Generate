@@ -2,6 +2,7 @@
 # LINK for Video : https://drive.google.com/file/d/1J1uMwFJr-G-WAnVk8dLi98UpwlwhWBvs/view?usp=sharing
 # The samplereadme.md file  is created by the app itself.
 # Below you see is the content of that very file
+# Please run 'npm i' before running 'node app.js' so as to install the node_modules folder.
 
 <br>
 <h1 align='center'>Run Buddy 2.0<span><img src="icons/project.png" height="25" width="25"/></span></h1>
