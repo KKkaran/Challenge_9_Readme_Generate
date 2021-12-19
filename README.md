@@ -1,6 +1,6 @@
 # Readme Generator: In this app, we get user inputs using Inquirer and create a READE.md for the user.
 # LINK for Video : https://drive.google.com/file/d/1J1uMwFJr-G-WAnVk8dLi98UpwlwhWBvs/view?usp=sharing
-# The samplereadme.md file  is also created by the app itself.
+# The samplereadme.md file  is created by the app itself.
 # Below you see is the content of that very file
 
 <br>
